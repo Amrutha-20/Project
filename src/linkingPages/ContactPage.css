@@ -1,0 +1,101 @@
+
+#getter {
+    background-color:#001f3f;
+    width: 900px;
+    height: 330px;
+    color:white;
+  
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #getter h3 {
+    color: #fff;
+  }
+  
+  address {
+    font-style: normal;
+  }
+  
+  #getter2{
+    background-color: #001f3f;
+    height:330px;
+    width:620px;  
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  
+ 
+  
+  #form-cont input,
+  #ttttt {
+    
+    padding: 10px;
+    width: 99%;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 1px solid #001f3f;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  #form-cont input::placeholder,
+  #form-cont textarea::placeholder {
+    color: #001f3f;
+  }
+
+  #form-cont textarea {
+    resize: vertical;
+  }
+  
+  #form-cont button {
+    width: 70%;
+    background-color: #296bad;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #form-cont button:hover {
+    background-color: #003366;
+  }
+  
+  
+  
+  
+  #flexer{
+    display:flex;
+    align-items: center;
+    justify-content:flex-start;
+    width:100%;
+    gap: 2px;
+  }
+  #gm-com{
+  
+    text-align: left;
+    text-indent:45px ;
+  }
+  #ppppp{
+    text-align: left;
+    text-indent:45px ;
+  }
+  #copying{
+    text-align: left;
+    text-indent:20px;
+    color:#fff;
+  }
+  #ghost{
+    text-align: left;
+    text-indent: 30px;
+  }
+  #para-pp{
+    text-align: left;
+    
+  }
+  #pointt{
+    margin-left: 30px; 
+    width: 700px;
+  
+  } 
